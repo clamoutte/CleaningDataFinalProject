@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 This project is part of the Getting and Cleaning Data online course in Coursera. The goal of the project is to demonstrate ability in
 collecting, processing and cleaning data by creating a tidy data set from data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
-##Project Files
+## Project Files
 * CodeBook.md: Detailed information about the data set and transformations being made
 * run_analysis.R: Script to download data and create tidy data set
 * TidyDataSummary.txt- Tidy data set generated from the script.
